@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -32,3 +33,44 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+=======
+*.sln
+*.userprefs
+*.csproj
+*.unityproj
+*.pidb
+*.svd
+*.suo
+*.user
+*.booproj
+*.unitypackage
+*.apk
+
+*.exe
+*_Data/
+
+/Library/*
+/Library/FailedAssetImports.txt
+/Library/cache/
+/Library/previews/
+/Library/ScriptAssemblies
+/obj
+/Temp
+ExportedObj/
+Temp/
+Build/
+
+.vscode/
+
+*~
+*.swp
+*.Trashes
+
+ehthumbs.db
+Thumbs.db
+
+.DS_Store
+.DS_Store?
+
+*_ElementData*
+>>>>>>> fdd6684cd22fee9f0391a354115686161c27caff
