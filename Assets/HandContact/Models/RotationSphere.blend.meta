@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 5dc982f574e2a8648bf393d6a2137174
+timeCreated: 1505174554
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: RotationSphereHolder
+    100004: ThirdSphere01
+    100006: ThirdSphere02
+    100008: ThirdSphere03
+    100010: ThirdSphere03_001
+    100012: UnwrappedSphere
+    100014: BiggerUnwrappedSphere
+    100016: FingerDimple
+    100018: MediumFingerDimple
+    100020: SmallFingerDimple
+    100022: MasterFingerDimple
+    400000: //RootNode
+    400002: RotationSphereHolder
+    400004: ThirdSphere01
+    400006: ThirdSphere02
+    400008: ThirdSphere03
+    400010: ThirdSphere03_001
+    400012: UnwrappedSphere
+    400014: BiggerUnwrappedSphere
+    400016: FingerDimple
+    400018: MediumFingerDimple
+    400020: SmallFingerDimple
+    400022: MasterFingerDimple
+    2300000: RotationSphereHolder
+    2300002: ThirdSphere01
+    2300004: ThirdSphere02
+    2300006: ThirdSphere03
+    2300008: ThirdSphere03_001
+    2300010: UnwrappedSphere
+    2300012: BiggerUnwrappedSphere
+    3300000: RotationSphereHolder
+    3300002: ThirdSphere01
+    3300004: ThirdSphere02
+    3300006: ThirdSphere03
+    3300008: ThirdSphere03_001
+    3300010: UnwrappedSphere
+    3300012: BiggerUnwrappedSphere
+    4300000: ThirdSphere03_001
+    4300002: RotationSphereHolder
+    4300004: ThirdSphere03
+    4300006: ThirdSphere02
+    4300008: ThirdSphere01
+    4300010: UnwrappedSphere
+    4300012: BiggerUnwrappedSphere
+    4300014: FingerDimple
+    4300016: MediumFingerDimple
+    4300018: SmallFingerDimple
+    4300020: MasterFingerDimple
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: FingerDimple
+    13700002: MediumFingerDimple
+    13700004: SmallFingerDimple
+    13700006: MasterFingerDimple
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
