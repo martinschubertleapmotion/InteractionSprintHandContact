@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - ContactPointObjects
-  - 
-  - 
+  - InteractionLayer
+  - InteractionNoContactLayer
+  - ContactBoneLayer
   - 
   - 
   - 
