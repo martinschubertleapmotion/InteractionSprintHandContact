@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e0fc41bf74295c44f8092103444085a8
+timeCreated: 1505504003
+licenseType: Pro
+ShaderImporter:
+  defaultTextures:
+  - _Texture_BaseDiffuse: {fileID: 2800000, guid: 5daedc5a8f1008648bcfb5931d482c94,
+      type: 3}
+  - _IndexFingerMask: {fileID: 2800000, guid: a7bdecff2ee92304bb5b12848126197e, type: 3}
+  - _MiddleFingerMask: {fileID: 2800000, guid: 847fd297e175ce347890467d23161ebd, type: 3}
+  - _ThumbMask: {fileID: 2800000, guid: d94e04789ee24da4fa626b9e7d657428, type: 3}
+  - _Diffuse_copy: {fileID: 2800000, guid: 5daedc5a8f1008648bcfb5931d482c94, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
