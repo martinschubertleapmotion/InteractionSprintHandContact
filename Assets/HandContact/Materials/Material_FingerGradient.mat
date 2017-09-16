@@ -100,7 +100,7 @@ Material:
     - _Emission: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionBase: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _GradientColor: {r: 0, g: 0.641, b: 1, a: 1}
+    - _GradientColor: {r: 1, g: 0, b: 1, a: 1}
     - _Metallic: {r: 0, g: 0, b: 0, a: 1}
     - _node_1202: {r: 0, g: 0, b: 0, a: 1}
     - _node_2962: {r: 0.5, g: 0.5, b: 0.5, a: 1}

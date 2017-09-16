@@ -17,6 +17,15 @@ ModelImporter:
     100018: MediumFingerDimple
     100020: SmallFingerDimple
     100022: MasterFingerDimple
+    100024: FingerDepthHole
+    100026: FingerDepthHole_MaskCylinder
+    100028: FingerDepthHole_Mask
+    100030: FingerDepthHole_MaskDeep
+    100032: FingerBeveledHole
+    100034: FingerBeveledHole_Mask
+    100036: FingerBeveledHole_3Shapes
+    100038: FingerBeveledHole_BackUp
+    100040: SculpturePodium_UnitMeshes
     400000: //RootNode
     400002: RotationSphereHolder
     400004: ThirdSphere01
@@ -29,6 +38,15 @@ ModelImporter:
     400018: MediumFingerDimple
     400020: SmallFingerDimple
     400022: MasterFingerDimple
+    400024: FingerDepthHole
+    400026: FingerDepthHole_MaskCylinder
+    400028: FingerDepthHole_Mask
+    400030: FingerDepthHole_MaskDeep
+    400032: FingerBeveledHole
+    400034: FingerBeveledHole_Mask
+    400036: FingerBeveledHole_3Shapes
+    400038: FingerBeveledHole_BackUp
+    400040: SculpturePodium_UnitMeshes
     2300000: RotationSphereHolder
     2300002: ThirdSphere01
     2300004: ThirdSphere02
@@ -36,6 +54,10 @@ ModelImporter:
     2300008: ThirdSphere03_001
     2300010: UnwrappedSphere
     2300012: BiggerUnwrappedSphere
+    2300014: FingerDepthHole_Mask
+    2300016: FingerDepthHole_MaskDeep
+    2300018: FingerBeveledHole_Mask
+    2300020: FingerBeveledHole
     3300000: RotationSphereHolder
     3300002: ThirdSphere01
     3300004: ThirdSphere02
@@ -43,6 +65,10 @@ ModelImporter:
     3300008: ThirdSphere03_001
     3300010: UnwrappedSphere
     3300012: BiggerUnwrappedSphere
+    3300014: FingerDepthHole_Mask
+    3300016: FingerDepthHole_MaskDeep
+    3300018: FingerBeveledHole_Mask
+    3300020: FingerBeveledHole
     4300000: ThirdSphere03_001
     4300002: RotationSphereHolder
     4300004: ThirdSphere03
@@ -54,12 +80,29 @@ ModelImporter:
     4300016: MediumFingerDimple
     4300018: SmallFingerDimple
     4300020: MasterFingerDimple
+    4300022: FingerDepthHole_MaskCylinder
+    4300024: FingerDepthHole
+    4300026: FingerDepthHole_Mask
+    4300028: FingerDepthHole_MaskDeep
+    4300030: FingerBeveledHole_Mask
+    4300032: FingerBeveledHole
+    4300034: FingerBeveledHole_3Shapes
+    4300036: FingerBeveledHole_BackUp
+    4300038: SculpturePodium_UnitMeshes
     7400000: Default Take
     9500000: //RootNode
     13700000: FingerDimple
     13700002: MediumFingerDimple
     13700004: SmallFingerDimple
     13700006: MasterFingerDimple
+    13700008: FingerDepthHole
+    13700010: FingerDepthHole_MaskCylinder
+    13700012: FingerDepthHole_Mask
+    13700014: FingerBeveledHole
+    13700016: FingerBeveledHole_3Shapes
+    13700018: FingerBeveledHole_BackUp
+    13700020: FingerBeveledHole_Mask
+    13700022: SculpturePodium_UnitMeshes
   materials:
     importMaterials: 1
     materialName: 0
