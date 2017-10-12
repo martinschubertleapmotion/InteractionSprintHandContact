@@ -4,4 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HandContact/Scenes/FinalScenes/Scene_DepthBasedGlow_DefaultScene.unity
+    guid: db0a6a9bd64265449af60328caeeafbe
+  - enabled: 1
+    path: Assets/HandContact/Scenes/FinalScenes/Scene_FingertipGradient_DefaultSceneUIEdges.unity
+    guid: 6ae98c4628362a34f8c026e7104631e9
+  - enabled: 1
+    path: Assets/HandContact/Scenes/FinalScenes/Scene_ACMEHole.unity
+    guid: 5aa89ee77c4f53b4da17f6750f73c49e
+  - enabled: 1
+    path: Assets/HandContact/Scenes/FinalScenes/Scene_Dimple+DepthGradient.unity
+    guid: 0dfdd99a6cb8b7c429b8ea709249afba
+  - enabled: 1
+    path: Assets/HandContact/Scenes/FinalScenes/Scene_DimpleContactPoint.unity
+    guid: cb1ed9cb1ff281c4791adf884af77a78
+  - enabled: 1
+    path: Assets/HandContact/Scenes/FinalScenes/Scene_DimplePhysics.unity
+    guid: 02aff873d1464e848b264cc7e0df28b2
+  - enabled: 1
+    path: Assets/HandContact/Scenes/FinalScenes/Scene_FingertipGradient.unity
+    guid: 337b07e16d47c3a48a20d609a3e45462
