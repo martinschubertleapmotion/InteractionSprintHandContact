@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: f36d6fc82b0f94649be47ed8200dbd60
+timeCreated: 1511779719
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Rail
+    100004: UIPanels
+    100006: UIPanels_Front
+    100008: UIPanels_Template
+    100010: SmallerRail
+    100012: Sphere
+    100014: UIPanels_FrontFlat
+    100016: TrailHandle
+    100018: TrailHandle_001
+    100020: UIPanels_Film
+    100022: TrailHandle_002
+    100024: TrailHandle_003
+    100026: TrailHandle_004
+    100028: TrailHandle_005
+    100030: Cube
+    400000: //RootNode
+    400002: Rail
+    400004: UIPanels
+    400006: UIPanels_Front
+    400008: UIPanels_Template
+    400010: SmallerRail
+    400012: Sphere
+    400014: UIPanels_FrontFlat
+    400016: TrailHandle
+    400018: TrailHandle_001
+    400020: UIPanels_Film
+    400022: TrailHandle_002
+    400024: TrailHandle_003
+    400026: TrailHandle_004
+    400028: TrailHandle_005
+    400030: Cube
+    2300000: //RootNode
+    2300002: Rail
+    2300004: UIPanels
+    2300006: UIPanels_Front
+    2300008: UIPanels_Template
+    2300010: SmallerRail
+    2300012: UIPanels_FrontFlat
+    2300014: TrailHandle
+    2300016: TrailHandle_001
+    2300018: UIPanels_Film
+    2300020: TrailHandle_002
+    2300022: TrailHandle_003
+    2300024: TrailHandle_004
+    2300026: TrailHandle_005
+    2300028: Cube
+    3300000: //RootNode
+    3300002: Rail
+    3300004: UIPanels
+    3300006: UIPanels_Front
+    3300008: UIPanels_Template
+    3300010: SmallerRail
+    3300012: UIPanels_FrontFlat
+    3300014: TrailHandle
+    3300016: TrailHandle_001
+    3300018: UIPanels_Film
+    3300020: TrailHandle_002
+    3300022: TrailHandle_003
+    3300024: TrailHandle_004
+    3300026: TrailHandle_005
+    3300028: Cube
+    4300000: Circle
+    4300002: UIPanels
+    4300004: Rail
+    4300006: UIPanels_Front
+    4300008: UIPanels_Template
+    4300010: SmallerRail
+    4300012: Sphere
+    4300014: UIPanels_FrontFlat
+    4300016: TrailHandle
+    4300018: TrailHandle_001
+    4300020: UIPanels_Film
+    4300022: TrailHandle_005
+    4300024: TrailHandle_004
+    4300026: TrailHandle_003
+    4300028: TrailHandle_002
+    4300030: Cube
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
