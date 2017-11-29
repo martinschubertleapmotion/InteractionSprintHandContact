@@ -21,6 +21,15 @@ ModelImporter:
     100026: TrailHandle_004
     100028: TrailHandle_005
     100030: Cube
+    100032: SimplePanel
+    100034: Swatch_FilmMembrane
+    100036: Sphere_001
+    100038: Cylinder
+    100040: Inverted
+    100042: InvertedCylinder
+    100044: InvertedSphere
+    100046: Panel_Gracine
+    100048: PanelWithLip
     400000: //RootNode
     400002: Rail
     400004: UIPanels
@@ -37,6 +46,15 @@ ModelImporter:
     400026: TrailHandle_004
     400028: TrailHandle_005
     400030: Cube
+    400032: SimplePanel
+    400034: Swatch_FilmMembrane
+    400036: Sphere_001
+    400038: Cylinder
+    400040: Inverted
+    400042: InvertedCylinder
+    400044: InvertedSphere
+    400046: Panel_Gracine
+    400048: PanelWithLip
     2300000: //RootNode
     2300002: Rail
     2300004: UIPanels
@@ -52,6 +70,15 @@ ModelImporter:
     2300024: TrailHandle_004
     2300026: TrailHandle_005
     2300028: Cube
+    2300030: SimplePanel
+    2300032: Swatch_FilmMembrane
+    2300034: Sphere_001
+    2300036: Cylinder
+    2300038: Inverted
+    2300040: InvertedCylinder
+    2300042: InvertedSphere
+    2300044: Panel_Gracine
+    2300046: PanelWithLip
     3300000: //RootNode
     3300002: Rail
     3300004: UIPanels
@@ -67,6 +94,15 @@ ModelImporter:
     3300024: TrailHandle_004
     3300026: TrailHandle_005
     3300028: Cube
+    3300030: SimplePanel
+    3300032: Swatch_FilmMembrane
+    3300034: Sphere_001
+    3300036: Cylinder
+    3300038: Inverted
+    3300040: InvertedCylinder
+    3300042: InvertedSphere
+    3300044: Panel_Gracine
+    3300046: PanelWithLip
     4300000: Circle
     4300002: UIPanels
     4300004: Rail
@@ -83,6 +119,15 @@ ModelImporter:
     4300026: TrailHandle_003
     4300028: TrailHandle_002
     4300030: Cube
+    4300032: SimplePanel
+    4300034: Swatch_FilmMembrane
+    4300036: Sphere_001
+    4300038: Cylinder
+    4300040: Inverted
+    4300042: Panel_Gracine
+    4300044: PanelWithLip
+    4300046: InvertedCylinder
+    4300048: InvertedSphere
     7400000: Default Take
     9500000: //RootNode
     13700000: Sphere

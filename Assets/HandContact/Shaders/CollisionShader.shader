@@ -73,8 +73,7 @@ Shader "Shader Forge/CollisionShader" {
                 float3 diffuse = (directDiffuse + indirectDiffuse) * diffuseColor;
 ////// Emissive:
                 float4 node_825 = _Time;
-                float node_8335 = frac(node_825.a);
-                float3 emissive = (saturate(((1.0 - distance(_ContactPointNormal.rgb,i.posWorld.rgb))*2.0+-1.0))*_node_481.rgb*pow(node_8335,5.0));
+                float3 emissive = (saturate(((1.0 - distance(_ContactPointNormal.rgb,i.posWorld.rgb))*2.0+-1.0))*_node_481.rgb*pow(frac(node_825.a),5.0));
 /// Final Color:
                 float3 finalColor = diffuse + emissive;
                 fixed4 finalRGBA = fixed4(finalColor,1);
