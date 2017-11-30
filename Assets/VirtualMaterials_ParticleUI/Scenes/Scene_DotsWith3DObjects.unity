@@ -1900,6 +1900,18 @@ Prefab:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 100056, guid: f36d6fc82b0f94649be47ed8200dbd60, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100052, guid: f36d6fc82b0f94649be47ed8200dbd60, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100054, guid: f36d6fc82b0f94649be47ed8200dbd60, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f36d6fc82b0f94649be47ed8200dbd60, type: 3}
   m_IsPrefabParent: 0
