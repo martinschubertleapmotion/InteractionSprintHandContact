@@ -16,8 +16,8 @@ TagManager:
   - InteractionLayer
   - InteractionNoContactLayer
   - ContactBoneLayer
-  - 
-  - 
+  - Outside_Portals
+  - PortalA
   - 
   - 
   - 
